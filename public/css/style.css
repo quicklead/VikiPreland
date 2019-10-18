@@ -296,12 +296,12 @@ main {
 @media(max-width:1440px) {
   main {
     background-position: 50% 0%;
-    background-size: 1642px 528px;
   }
 }
 
-@media(max-width:1024px) {
+@media(max-width:768px) {
   main {
+    background-size: 1642px 528px;
     background-position: 51% -5%;
     /* background-image: none; */
   }
